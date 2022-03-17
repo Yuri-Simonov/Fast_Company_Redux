@@ -1,3 +1,3 @@
 # Учебный проект "Fast Company" 
-## Версия без Redux
+## Версия c Redux
 ### БД - Firebase
